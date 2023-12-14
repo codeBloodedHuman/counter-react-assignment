@@ -1,0 +1,21 @@
+.counter {
+  max-width: 300px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.counter-display {
+  margin-bottom: 20px;
+}
+
+.counter-buttons button {
+  margin: 0 5px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.counter-buttons button:hover {
+  background-color: #ddd;
+}
